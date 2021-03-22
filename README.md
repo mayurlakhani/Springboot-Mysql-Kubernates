@@ -1,2 +1,1 @@
-# Springboot+Mysql+Kubernates
- 
+"# springboot+mysql+spring JPA + kubernets" 
